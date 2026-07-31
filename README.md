@@ -57,11 +57,9 @@ método:      fidelidade ao real — nada de dado inventado, tudo com fonte
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0084BF/matheus-coder" width="98%" alt="calendário de contribuições" />
+<img src="https://ghchart.rshah.org/0084BF/matheus-coder?v=2" width="98%" alt="calendário de contribuições" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-coder&bg_color=0B3854&color=ffffff&line=0084BF&point=FDD008&area_color=0084BF&area=true&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" width="98%" />
-
-<img src="https://raw.githubusercontent.com/matheus-coder/matheus-coder/output/github-contribution-grid-snake-dark.svg" width="98%" alt="cobrinha das contribuições" />
+<img src="https://raw.githubusercontent.com/matheus-coder/matheus-coder/output/github-contribution-grid-snake-dark.svg?v=2" width="98%" alt="cobrinha das contribuições" />
 
 </div>
 
